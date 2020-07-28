@@ -5,7 +5,7 @@ import numpy as np
 #img=cv2.imread('ex.jpg',1)
 #we can create an image from numpy zero method
 #for black image 3
-img=np.zeros([512,512,3],np.uint8)
+img=np.zeros([512,512,3],np.uint8)#heigth width
 
 
 
